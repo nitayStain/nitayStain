@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Nitay
-- 👀 I’m interested in software engineering, game dev, fivem scripting and data science!
+- 👀 I’m a young software engineer . Currently building projects with next.js and Mongodb.
+- 🌶 Hobbies: coding games, discord bots, code challenges. 
 - 🌱 I’m currently learning Python (Using Pygame, socket development, server sided web development) and Javascript (Node JS, Vanilla, JQuery)
 - 📫 How to reach me - nitaystain090@gmail.com
 
