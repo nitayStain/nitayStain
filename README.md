@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nitay
 - 👀 I’m a young software engineer . Currently building projects with next.js and Mongodb.
-- 🌶 Hobbies: coding games, discord bots, code challenges. 
+- 🌶 Hobbies: coding: games, websites, discord bots, apis, cyber security, hacking.
 - 🌱 I’m currently learning Python (Using Pygame, socket development, server sided web development) and Javascript (Node JS, Vanilla, JQuery)
 - 📫 How to reach me - nitaystain090@gmail.com
 
