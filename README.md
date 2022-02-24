@@ -1,8 +1,19 @@
-- 👋 Hi, I’m Nitay
-- 👀 I’m a young software engineer . Currently building projects with next.js and Mongodb.
-- 🌶 Hobbies: coding: games, websites, discord bots, apis, cyber security, hacking.
-- 🌱 I’m currently learning Python (Using Pygame, socket development, server sided web development) and Javascript (Node JS, Vanilla, JQuery)
-- 📫 How to reach me - nitaystain090@gmail.com
+# 👋 Hey! I'm Virtual
+
+- My Interests: 
+    - FiveM Development
+    - Discord.js
+    - express.js
+    - NextJS
+
+<hr>
+
+* 👩‍💻 Currently working on: **`WePlay Whitelist Development, Discord Bots, APIS`**
+* 📫 How to reach me - `Virtual#3977` on discord!
+
+<hr>
+
+> # **https://discord.gg/aSbhZm3u96** WePlay Whitelist Server!
 
 <!---
 VirtuallDev/VirtuallDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
