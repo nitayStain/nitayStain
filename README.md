@@ -1,6 +1,6 @@
 # 👋 Hey! I'm Virtual
 
-Backend Developer
+
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/907644492419571752?theme=dark&bg=492042&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/907644492419571752)
