@@ -6,7 +6,7 @@ A 15 year old back-end developer from Israel.
 
 <img width="20" src="https://www.pngitem.com/pimgs/m/385-3850359_icon-mongodb-logo-hd-png-download.png" /> MongoDB
 
-<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" /> C/C++
+<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" /> C/C++ (Currently learning)
 
 <img width="20" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" /> React.js
 
