@@ -1,5 +1,4 @@
-# 👋 Hey! I'm Nitay
-A 15 year old back-end developer from Israel.
+
 
 ## Known Languages And Technologies
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" /> Typescript (Main Language)
@@ -18,7 +17,7 @@ A 15 year old back-end developer from Israel.
 
 <img width="20" src="https://logos-world.net/wp-content/uploads/2021/03/FiveM-Logo.png" /> FiveM Scripting
 
-##
+## My Stats
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/907644492419571752?theme=dark&bg=492042&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/907644492419571752)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VirtuallDev&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
