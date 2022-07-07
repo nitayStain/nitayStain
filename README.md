@@ -15,7 +15,7 @@
 
 <img width="20" src="https://logos-world.net/wp-content/uploads/2021/03/FiveM-Logo.png" /> FiveM Scripting (advanced)
 
-<img width="20" src="https://he.m.wikipedia.org/wiki/%D7%A7%D7%95%D7%91%D7%A5:Rust_programming_language_black_logo.svg" /> Rust (Learning)
+<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" /> Rust (Learning)
 
 ## My Stats
 
@@ -24,10 +24,3 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VirtuallDev&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Virtual's GitHub stats](https://github-readme-stats.vercel.app/api?username=VirtuallDev&show_icons=true&theme=tokyonight)
-
-
-
-
-
-## Contact Creation
-Just Don't.
