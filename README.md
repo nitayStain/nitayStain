@@ -11,7 +11,7 @@
 
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" /> Python (advanced)
 
-<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png" /> Lua (intermediate)
+<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png" /> Lua (advanced)
 
 <img width="20" src="https://logos-world.net/wp-content/uploads/2021/03/FiveM-Logo.png" /> FiveM Scripting (advanced)
 
