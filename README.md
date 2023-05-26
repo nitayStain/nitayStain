@@ -3,11 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+There++&hearts;++;"></a>
-  ![image](https://github.com/VirtuallDev/VirtuallDev/assets/93452463/4b49b155-bda0-4a58-81f8-1fa730be48e8)
 </p>
-
-
-
 
 <br>
 
@@ -22,7 +18,7 @@
 
 - A self-taught cybersecurity researcher, and an open-source fullstack developer.
 - Average Rock band listener
-- Complete geek & Computer nerd
+- Complete geek & Computer nerd 
 
 <br><br>
 
