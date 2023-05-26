@@ -97,6 +97,15 @@
 </a>
 </div>
 
+## <b> Contact Me </b>
+<br>
+
+<div align="center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/907644492419571752)](https://discord.com/users/907644492419571752)
+	
+</div>
+
 <br>
 <br>
 <br>
