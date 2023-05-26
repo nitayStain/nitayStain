@@ -38,7 +38,7 @@
     ![Lua](https://img.shields.io/badge/Lua%20-%230000CD.svg?style=for-the-badge&logo=lua&logoColor=white)
     ![Rust](https://img.shields.io/badge/Rust%20-%23A52A2A.svg?style=for-the-badge&logo=rust&logoColor=white)
     ![Typescript](https://img.shields.io/badge/Typescript-%2300599C.svg?style=for-the-badge&logo=typescript&logoColor=white)
-    ![C#](https://img.shields.io/badge/C%23-%2300599C.svg?style=for-the-badge&logo=csharp&logoColor=white)
+    ![C#](https://img.shields.io/badge/C%23-%2339AF0D.svg?style=for-the-badge&logo=csharp&logoColor=white)
 	
 <br>   
     
