@@ -19,6 +19,7 @@
 - A self-taught cybersecurity researcher, and an open-source fullstack developer.
 - Average Rock band listener
 - Complete geek & Computer nerd 
+- First year in the israeli <a href="https://www.magshimim.cyber.org.il/">Magshimim-Cyber</a> program
 
 <br><br>
 
