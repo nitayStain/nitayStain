@@ -51,7 +51,6 @@
    ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 	
 <br>
-
 	
 - **Softwares and Tools**:
 	
@@ -69,7 +68,6 @@
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white) 
     ![Windows](https://img.shields.io/badge/Windows-00A7FF?style=for-the-badge&logo=windows&logoColor=white) 
 
-	
 - **Extras**:
 	
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
