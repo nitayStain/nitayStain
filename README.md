@@ -19,7 +19,7 @@
 - A self-taught cybersecurity researcher, and an open-source fullstack developer.
 - Average Rock band listener
 - Complete geek & Computer nerd 
-- First year in the israeli <a href="https://www.magshimim.cyber.org.il/">Magshimim-Cyber</a> program
+- Second year in the israeli <a href="https://www.magshimim.cyber.org.il/">Magshimim-Cyber</a> program
 - I'm 16 years old (graduating to Junior year)
 - My favorite language is C++/C
 
