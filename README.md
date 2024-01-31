@@ -20,7 +20,7 @@
 - Average Rock band listener
 - Complete geek & Computer nerd 
 - Second year in the israeli <a href="https://www.magshimim.cyber.org.il/">Magshimim-Cyber</a> program
-- I'm 16 years old (graduating to Junior year)
+- I'm 17 years old (graduating to Junior year)
 - My favorite language is C++/C
 
 <br><br>
